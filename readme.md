@@ -15,6 +15,6 @@
 
 📫 Você pode me encontrar em:
 - [LinkedIn](https://www.linkedin.com/in/jocerlan/)  
-- [Portfólio](ec2-3-135-64-31.us-east-2.compute.amazonaws.com)  
+- [Portfólio](http://ec2-3-135-64-31.us-east-2.compute.amazonaws.com)  
 
 ✨ _"A tecnologia move o mundo."_ – Steve Jobs
